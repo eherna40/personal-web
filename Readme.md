@@ -2,7 +2,7 @@
 
 Pequeña single page de web personal, donde podras descargar mi currulum
 
-Ejemplo en funcionamiento gracias a gh-pages [Platzi-Video](https://eherna40.github.io/platzi-video/)
+Ejemplo en funcionamiento gracias a gh-pages [Emilio Hernandez](https://eherna40.github.io/platzi-video/)
 
 Tegnologias usadas:
     - Webpack
@@ -16,4 +16,4 @@ Tegnologias usadas:
 
 ## Licencia
 
-[MIT](https://opensource.org/licenses/MIT)# Platzi-video
+[MIT](https://opensource.org/licenses/MIT)# Emilio Hernandez
